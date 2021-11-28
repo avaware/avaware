@@ -5,6 +5,7 @@ discord: https://discord.gg/kaWeyXESqQ
 medium: https://avaware.medium.com/  
 twitter: https://twitter.com/AvawareAVE  
 market: https://app.pangolin.exchange/#/swap?outputCurrency=0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE  
+image: https://github.com/avaware/avaware/blob/main/farms/tokens/avaware.png?raw=true
 token contract: 0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE  
 treasury address: 0x9300736E333233F515E585c26A5b868772392709
 
@@ -23,6 +24,9 @@ AVE/AVME PGL: 0x45f00708A255341ADe3eB629305b0078653BCbea
 AVE/ELK ELP: 0xa842C15eD93C8d8caC6b7E3C4872f88e115DfB33  
 AVE/YTS YSL: 0x498341C1247Db96654Ae61b8DC7562dB33a7c962  
 AVE Single Sided: 0xF7F90f203e7BCf0F64E9e73A361D6DB4Ed8F72Ba  
+
+
+
 
 
 
