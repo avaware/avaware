@@ -30,6 +30,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
             "decimals": 18,
             "name": "TrueUSD",
